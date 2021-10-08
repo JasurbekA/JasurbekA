@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 [![Jasurbek's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=JasurbekA&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
 
--->
+
